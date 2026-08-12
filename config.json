@@ -1,0 +1,24 @@
+{
+  "x": -10,
+  "y": -12,
+  "scale": 2.2299999999999995,
+  "currentGif": "68726867c5ed8BUC.gif",
+  "gifFolder": "",
+  "alwaysTop": true,
+  "autoStart": false,
+  "clickThrough": false,
+  "alarmEnabled": true,
+  "soundEnabled": true,
+  "autoSwitch": false,
+  "randomSwitch": false,
+  "autoSwitchInterval": 30,
+  "defaultScale": 253,
+  "defaultVolume": 41,
+  "alarms": [
+    {
+      "time": "17:00",
+      "label": "闹钟",
+      "enabled": true
+    }
+  ]
+}
